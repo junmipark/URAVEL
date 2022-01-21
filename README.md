@@ -12,7 +12,7 @@
 
 # 담당 기능
 - 메인 페이지
-- [image](https://user-images.githubusercontent.com/92344242/150515496-fa7e8700-9e54-4244-9c60-f0348c7ef49d.png)
+- ![image](https://user-images.githubusercontent.com/92344242/150515496-fa7e8700-9e54-4244-9c60-f0348c7ef49d.png)
 - ![image](https://user-images.githubusercontent.com/92344242/150515517-3e6bdead-3a9f-4c23-a8fc-6b0bc8034e16.png)
   - 검색창을 통한 검색 기능
     - 키워드를 입력하면 검색 결과를 포함하는 통합 검색 페이지로 이동한다.
