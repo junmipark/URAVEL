@@ -23,9 +23,6 @@
   - 서울 날씨 정보 제공
     - 현재 시각을 기준으로 서울의 날씨 정보를 표시한다.
     - OpenWeather API를 이용하였다.
-  - 이미지
-    - ![image](https://user-images.githubusercontent.com/92344242/150515496-fa7e8700-9e54-4244-9c60-f0348c7ef49d.png)
-    - ![image](https://user-images.githubusercontent.com/92344242/150515517-3e6bdead-3a9f-4c23-a8fc-6b0bc8034e16.png)
 
 # 발표 자료
 https://docs.google.com/presentation/d/17TVWgMC5wyaQpX6ve04YtC2lgcJMazQG/edit?usp=sharing&ouid=109431752741517625780&rtpof=true&sd=true
