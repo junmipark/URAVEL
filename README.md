@@ -1,26 +1,25 @@
-# URAVEL
+# 당신을 위한 여행 사이트, URAVEL
 
-# 개요
-## 프로젝트명
-URAVEL
 ## 주제
 서울시 여행지를 추천하는 웹사이트
+
 ## 기획 의도 및 목표
   - 로컬들이 서울 여행지를 지역 및 테마별로 분류하여 소개하고, 이를 통해 서울시 여행을 계획 중인 모든 사람들(내·외국인 포함)이 이용 가능한 웹사이트를 개발한다.
   - 세미프로젝트를 진행하기 전까지 실습했던 내용들과 다양한 오픈 API를 접목하여 웹 개발에 대한 이해를 높인다.
+
 ## 개발 기간
 2021.09-2021.11
 
-# 기술 스택
-## Front-End 
+## 기술 스택
+### Front-End 
 HTML/CSS, javascript, jQuery
-## Back-End 
+### Back-End 
 Java (Servlet)
-## Database 
+### Database 
 Oracle
 
-# 담당 기능
-## 메인 페이지
+## 담당 기능
+### 메인 페이지
 - 검색창을 통한 검색 기능
   - 키워드를 입력하면 검색 결과를 포함하는 통합 검색 페이지로 이동한다.
 - 챗봇을 통한 검색 기능
@@ -33,8 +32,8 @@ Oracle
   - 현재 시각을 기준으로 서울의 날씨 정보를 표시한다.
   - OpenWeather API를 이용하였다.
 
-# 발표 자료
+## 발표 자료
 https://docs.google.com/presentation/d/17TVWgMC5wyaQpX6ve04YtC2lgcJMazQG/edit?usp=sharing&ouid=109431752741517625780&rtpof=true&sd=true
 
-# 시연 영상
+## 시연 영상
 https://youtu.be/U75S4MD5imc
