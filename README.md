@@ -1,5 +1,7 @@
 # 당신을 위한 여행 사이트, URAVEL
 
+![image](https://user-images.githubusercontent.com/92344242/150626001-b0dcbe72-50ad-4956-b3ae-28adf12e05f6.png)
+
 ## 주제
 서울시 여행지를 추천하는 웹사이트
 
