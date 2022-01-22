@@ -51,8 +51,10 @@ Oracle
   - 회원 정보를 전체/활성화된(탈퇴하지 않은) 회원별로 조회할 수 있으며, 회원 정보에 대하여 일괄 비활성화가 가능하다.
 ---
 
-## 발표 자료
-https://docs.google.com/presentation/d/17TVWgMC5wyaQpX6ve04YtC2lgcJMazQG/edit?usp=sharing&ouid=109431752741517625780&rtpof=true&sd=true
-
 ## 시연 영상
 https://youtu.be/U75S4MD5imc
+
+---
+
+## 발표 자료
+https://docs.google.com/presentation/d/17TVWgMC5wyaQpX6ve04YtC2lgcJMazQG/edit?usp=sharing&ouid=109431752741517625780&rtpof=true&sd=true
