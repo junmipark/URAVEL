@@ -54,7 +54,5 @@ Oracle
 ## 시연 영상
 https://youtu.be/U75S4MD5imc
 
----
-
 ## 발표 자료
 https://docs.google.com/presentation/d/17TVWgMC5wyaQpX6ve04YtC2lgcJMazQG/edit?usp=sharing&ouid=109431752741517625780&rtpof=true&sd=true
