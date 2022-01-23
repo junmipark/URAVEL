@@ -33,6 +33,8 @@ Oracle
       ![챗봇 기능 구현을 위한 Task Graph 구성](https://user-images.githubusercontent.com/92344242/150696980-f783f96e-ad5e-49eb-ba40-ceb8908fe9c1.png)
     - 여행지 추천을 위한 사용자 발화 학습
       ![여행지 추천을 위한 사용자 발화 학습](https://user-images.githubusercontent.com/92344242/150697051-2ac27aec-4f97-4ff7-b3a1-c2e747b1f39f.png)
+    - 여행지 정보를 기반으로 클래스 인스턴스 작성
+      ![여행지 정보를 기반으로 클래스 인스턴스 작성](https://user-images.githubusercontent.com/92344242/150697191-d6c7b5cb-7aaa-40af-af5e-fa837d7073a1.png)
 
 
 
